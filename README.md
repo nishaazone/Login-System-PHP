@@ -1,6 +1,10 @@
 # Login System in PHP (iSecure)
-A simple working Login System in PHP with database connectivity, user verification, Password Hashing, prohibiting duplicate username creation.
+A simple working Login System in PHP with database connectivity, User verification, Password hashing, Prohibiting duplicate user creation, usage of SESSION variables.
 
+# Database 
+Database name - users
+Table name - users
+Columns - [ username, password, dt]
 
 Login.php
 
