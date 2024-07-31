@@ -1,5 +1,5 @@
 # Login System in PHP (iSecure)
-================================
+
 ## A simple working Login System in PHP with-
 * Database connectivity
 * User verification
